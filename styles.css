@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+
+.game-container {
+  max-width: 500px;
+  margin: auto;
+}
+
+button {
+  display: block;
+  margin: 10px auto;
+}
